@@ -10,7 +10,10 @@
 
 <p align="center">
   Electrical Engineering student with interests in<br>
-  systems development 💻, control ⚙️, robotics 🤖 and data science 📊
+  💻 systems development
+  ⚙️ control 
+  🤖 robotics  
+  📊 and data science 
 </p>
 
 <h3 align="center"> Tech 🛠️ </h3>
