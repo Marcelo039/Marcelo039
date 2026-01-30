@@ -47,5 +47,7 @@
     src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   <img alt="C" width="40px"
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+  <img alt="C++" width="40px"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </div>
 
