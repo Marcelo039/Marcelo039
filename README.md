@@ -5,7 +5,7 @@
 </h3>
 
 <h3 align="center">
-  About me 🚀
+  About me:
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
   📊 and data science 
 </p>
 
-<h3 align="center"> Tech 🛠️ </h3>
+<h3 align="center"> Techs  </h3>
 <div align="center">
   <img alt="VS Code" width="34px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
