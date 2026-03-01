@@ -1,4 +1,4 @@
-<h1 align="center">Marcelo Filho ⚡</h1>
+<h1 align="center">Hi 👋 My name is Marcelo Fragoso </h1>
 
 <h3 align="center">
 Electrical Engineering Student | systems development • Robotics • Control Systems • Optimization • Data Science
