@@ -1,7 +1,7 @@
 <h1 align="center">Marcelo Filho ⚡</h1>
 
 <h3 align="center">
-Electrical Engineering Student | Robotics • Control Systems • Optimization • Data Science
+Electrical Engineering Student | systems development • Robotics • Control Systems • Optimization • Data Science
 </h3>
 
 ---
@@ -10,7 +10,8 @@ Electrical Engineering Student | Robotics • Control Systems • Optimization �
 
 I'm an Electrical Engineering student focused on the intersection of:
 
-- 🤖 Autonomous Robotics
+- 💻 systems development
+- 🤖  Robotics
 - ⚙️ Control Systems
 - 📊 Data Analysis & Modeling
 - 🧮 Optimization Algorithms 
@@ -72,8 +73,8 @@ Bridging Electrical Engineering fundamentals with Computer Engineering and Advan
 ---
 
 ## 📈 Currently Learning
-
-- Advanced Control Theory
+- System Development
+- Control Theory
 - Linear Algebra for Optimization
 - Dynamic Systems Modeling
 - Data Structures & Algorithms
