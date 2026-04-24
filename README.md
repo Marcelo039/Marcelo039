@@ -11,18 +11,12 @@ Electrical Engineering Student | systems development • Robotics • Control Sy
 I'm an Electrical Engineering student focused on the intersection of:
 
 - 💻 systems development
-- 🤖  Robotics
+- 🤖 Robotics
 - ⚙️ Control Systems
 - 📊 Data Analysis & Modeling
 - 🧮 Optimization Algorithms 
 
-
-
-
-
-
-
-
+---
 
 ## 🛠 Tech Stack
 
@@ -32,9 +26,16 @@ I'm an Electrical Engineering student focused on the intersection of:
 <img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="HTML5" width="40px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
-<img alt="CSS3" width="40px" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
+<img alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+<!-- HTML corrigido -->
+<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+
+<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+
+<!-- Node.js adicionado -->
+<img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 
@@ -45,7 +46,7 @@ I'm an Electrical Engineering student focused on the intersection of:
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Marcelo039&show_icons=true&count_private=true&theme=great-gatsby&hide_border=true" height="192px" />
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Marcelo039&show_icons=true&count_private=true&include_all_commits=true&theme=great-gatsby&hide_border=true&cache_seconds=1800" height="192px"/>
 </p>
 
 ---
@@ -53,7 +54,7 @@ I'm an Electrical Engineering student focused on the intersection of:
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo039&theme=great-gatsby&hide_border=true" height="192px" />
+<img src="https://streak-stats.demolab.com?user=Marcelo039&theme=great-gatsby&hide_border=true&cache_seconds=1800" height="192px"/>
 </p>
 
 ---
