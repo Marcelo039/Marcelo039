@@ -9,7 +9,7 @@ Electrical Engineering Student | systems development • Robotics • Control Sy
 ## 🧠 About Me
 
 I'm an Electrical Engineering student focused on the intersection of:
-
+- ⚙️ IA
 - 💻 systems development
 - 🤖 Robotics
 - ⚙️ Control Systems
