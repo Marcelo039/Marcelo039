@@ -67,13 +67,14 @@ My goal is to specialize in:
 - Swarm Robotics
 - Computational Optimization
 - Applied Mathematical Modeling
-- High-Performance Simulation Systems
+
 
 Bridging Electrical Engineering fundamentals with Computer Engineering and Advanced Algorithms.
 
 ---
 
 ## 📈 Currently Learning
+- IA
 - System Development
 - Control Theory
 - Linear Algebra for Optimization
@@ -83,6 +84,4 @@ Bridging Electrical Engineering fundamentals with Computer Engineering and Advan
 
 ---
 
-<h3 align="center">
-⚡ Building intelligent systems through mathematics, control and computation.
-</h3>
+
