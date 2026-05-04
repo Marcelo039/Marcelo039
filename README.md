@@ -69,7 +69,7 @@ My goal is to specialize in:
 - Applied Mathematical Modeling
 
 
-Bridging Electrical Engineering fundamentals with Computer Engineering and Advanced Algorithms.
+
 
 ---
 
