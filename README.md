@@ -50,6 +50,10 @@ I'm an Electrical Engineering student focused on the intersection of:
 </p>
 
 ---
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Marcelo039&layout=compact&theme=great-gatsby&hide_border=true" height="192px"/>
+</p>
 
 ## 🔥 Contribution Streak
 
