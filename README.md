@@ -54,7 +54,7 @@ I'm an Electrical Engineering student focused on the intersection of:
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Marcelo039&theme=great-gatsby&hide_border=true&cache_seconds=1800" height="192px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo039&theme=great-gatsby&hide_border=true" />
 </p>
 
 ---
