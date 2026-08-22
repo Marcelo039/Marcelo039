@@ -88,4 +88,3 @@ My goal is to specialize in:
 
 ---
 
-porque meu contribution streak nao esta aparecendo?
