@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Marcelo Fragoso </h1>
 
 <h3 align="center">
-Electrical Engineering Student | IA • systems development • Robotics • Control Systems • Optimization • Data Science
+Electrical Engineering Student | IA • Backend development • Robotics • Control Systems • Optimization • Data Science
 </h3>
 
 ---
@@ -9,12 +9,12 @@ Electrical Engineering Student | IA • systems development • Robotics • Con
 ##  About Me
 
 I'm an Electrical Engineering student focused on the intersection of:
-- ⚙️ IA
-- 💻 systems development
-- 🤖 Robotics
-- ⚙️ Control Systems
-- 📊 Data Analysis & Modeling
-- 🧮 Optimization Algorithms 
+-  IA
+-  systems development
+-  Robotics
+-  Control Systems
+-  Data Analysis & Modeling
+-  Optimization Algorithms 
 
 ---
 
