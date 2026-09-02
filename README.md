@@ -6,7 +6,7 @@ Electrical Engineering Student | IA • systems development • Robotics • Con
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm an Electrical Engineering student focused on the intersection of:
 - ⚙️ IA
@@ -18,7 +18,7 @@ I'm an Electrical Engineering student focused on the intersection of:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -43,19 +43,19 @@ I'm an Electrical Engineering student focused on the intersection of:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Marcelo039&show_icons=true&count_private=true&include_all_commits=true&theme=great-gatsby&hide_border=true&cache_seconds=1800" height="192px"/>
 </p>
 
 ---
-## 🧠 Most Used Languages
+##  Most Used Languages
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Marcelo039&layout=compact&theme=great-gatsby&hide_border=true" height="192px"/>
 </p>
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo039&theme=great-gatsby&hide_border=true" />
@@ -63,12 +63,16 @@ I'm an Electrical Engineering student focused on the intersection of:
 
 ---
 
-## 🎯 Engineering Vision
+##  Engineering Vision
 
 My goal is to specialize in:
 
 - Intelligent Autonomous Systems
-- Swarm Robotics
+- Industrial Automation
+- Artificial Intelligence and Machine Learning
+- Backend Systems and API Development
+- Cloud Computing and MLOps
+- Edge AI and Intelligent IoT
 - Computational Optimization
 - Applied Mathematical Modeling
 
@@ -77,11 +81,13 @@ My goal is to specialize in:
 
 ---
 
-## 📈 Currently Learning
-- IA
+##  Currently Learning
+- MLOps & AI Systems
 - System Development
+- Backend Development & API Design
+- Embedded Systems & IoT
 - Control Theory
-- Linear Algebra for Optimization
+- ROS 2
 - Dynamic Systems Modeling
 - Data Structures & Algorithms
 - Scientific Computing
